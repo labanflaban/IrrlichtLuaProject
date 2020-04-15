@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\ProjektLua\Lua_Irrlicht_BTH_template\Lua_Irrlicht_BTH_template\Main.cpp(38,12): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\ProjektLua\Lua_Irrlicht_BTH_template\Lua_Irrlicht_BTH_template\Main.cpp(39,12): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\ProjektLua\Lua_Irrlicht_BTH_template\Lua_Irrlicht_BTH_template\Main.cpp(40,12): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+  Lua_Irrlicht_BTH_template.vcxproj -> C:\ProjektLua\Lua_Irrlicht_BTH_template\Bin/x64/Lua_Irrlicht_BTH_templateD.exe
